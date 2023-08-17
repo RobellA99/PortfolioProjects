@@ -34,3 +34,5 @@ SELECT Zipcode, AVG(Price) AS Average_Price
 FROM Listings$
 WHERE Zipcode IS NOT NULL
 GROUP BY Zipcode
+
+-- Tableau Link (https://public.tableau.com/app/profile/robell.asfaw/viz/AirBnBProject_16922854119820/Dashboard1) 
